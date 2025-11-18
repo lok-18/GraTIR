@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 日志
+*.log
+
+# 数据 & 输出
+data/
+outputs/
+runs/
+
+# 模型 checkpoint（根据你实际情况改）
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.h5
