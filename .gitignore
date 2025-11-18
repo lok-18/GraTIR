@@ -29,3 +29,9 @@ checkpoints/
 *.ckpt
 *.bin
 *.h5
+clip_model/flax_model.msgpack
+# large model checkpoints
+*.msgpack
+*.pt
+*.pth
+*.ckpt
