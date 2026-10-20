@@ -1,10 +1,14 @@
 # GraTIR
+[![TMM](https://img.shields.io/badge/Elsevier-InfFus-purple)](https://www.sciencedirect.com/journal/information-fusion)
+[![LICENSE](https://img.shields.io/badge/License-MIT-green)](https://github.com/lok-18/IGNet/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.13.0-orange)](https://pytorch.org/)
 
 ### Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion
+in Information Fusion (**Inf Fus**) 🔥🔥🔥
 
-**Jiawei Li†, Hongwei Yu†, Xinlong Ding, Enlong Wang, Qiankun Liu, Jinyuan Liu, Huimin Ma, and Jiansheng Chen**
-
-† Equal contribution. Corresponding author: Jiansheng Chen.
+by [Jiawei Li](https://scholar.google.com.hk/citations?user=xWy8RZEAAAAJ&hl=zh-CN), [Hongwei Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=cDidt64AAAAJ), [Xinlong Ding](https://scholar.google.com.hk/citations?user=JY9oXVIAAAAJ&hl=zh-CN&oi=ao), [Enlong Wang](https://scholar.google.com.hk/citations?user=yW520ooAAAAJ&hl=zh-CN&oi=ao), [Qiankun Liu](https://scholar.google.com.hk/citations?user=TNDbzzMAAAAJ&hl=zh-CN&oi=ao), [Jinyuan Liu](https://scholar.google.com.hk/citations?user=a1xipwYAAAAJ&hl=zh-CN&oi=ao), [Huimin Ma](https://scholar.google.com.hk/citations?user=32hwVLEAAAAJ&hl=zh-CN&oi=ao), and [Jiansheng Chen](https://scholar.google.com.hk/citations?user=A1gA9XIAAAAJ&hl=zh-CN&oi=ao)
+- [[*Elsevier*]]()
 
 
 PyTorch implementation of **GraTIR**, a framework for infrared and visible image fusion with **text–image–relation collaborative representation**. GraTIR combines visual features with scene graph descriptions to preserve both image details and relationships among objects. The manuscript evaluates fusion quality, object detection, semantic segmentation, and scene graph generation.
