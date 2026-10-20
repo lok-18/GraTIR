@@ -35,3 +35,15 @@ clip_model/flax_model.msgpack
 *.pt
 *.pth
 *.ckpt
+
+# Local backup of the former nested Git repository
+/.repo-backups/
+
+# RelTR source files and documentation (the data directory is ignored above)
+!/RelTR/data/
+/RelTR/data/*
+!/RelTR/data/README.md
+!/RelTR/data/process.py
+
+# RelTR compiled build artifacts
+/RelTR/lib/fpn/box_intersections_cpu/build/
