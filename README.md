@@ -23,7 +23,7 @@ Prepare the following files before testing or training:
 
 | Model | Expected local path | Source |
 | --- | --- | --- |
-| GraTIR fusion model | `checkpoint/model.pth` | Obtain the trained fusion checkpoint from the authors, or generate it with `train.py`. A public download link is not currently included in this repository. |
+| GraTIR fusion model | `checkpoint/model.pth` | [model](https://drive.google.com/file/d/16GQ2_PJ_ffmou4-pH54mE3SDz9Rvg3qh/view?usp=sharing) |
 | RelTR pretrained on Visual Genome | `RelTR/ckpt/checkpoint0149.pth` | [Official RelTR checkpoint](https://drive.google.com/file/d/1id6oD_iwiNDD6HyCn2ORgRTIKkPD3tUD/view), linked by the [RelTR repository](https://github.com/yrcong/RelTR). |
 | CLIP ViT-B/16 | `clip_model/pytorch_model.bin` | [openai/clip-vit-base-patch16](https://huggingface.co/openai/clip-vit-base-patch16). Configuration and tokenizer files are already included in `clip_model/`. |
 
