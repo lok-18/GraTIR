@@ -93,7 +93,14 @@ python train.py
 If this work is useful for your research, please cite the manuscript:
 
 ```bibtex
-Please waiting...
+@article{li2026focusing,
+  title={Focusing on Object Relations in Scenes: A Multi-collaborative Graph-structured Framework for Infrared and Visible Image Fusion},
+  author={Li, Jiawei and Yu, Hongwei and Ding, Xinlong and Wang, Enlong and Liu, Qiankun and Liu, Jinyuan and Ma, Huimin and Chen, Jiansheng},
+  journal={Information Fusion},
+  pages={104886},
+  year={2026},
+  publisher={Elsevier}
+}
 ```
 
 ### 🧩 Related Work
